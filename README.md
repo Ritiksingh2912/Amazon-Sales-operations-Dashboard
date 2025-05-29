@@ -79,3 +79,5 @@ The dashboard was built using the following tools and technologies:
      •   Helped improve data-driven decision-making and operational efficiency.
 
 6- Screenshots/ Demos
+1- Overview dashboard look like -   (https://github.com/Ritiksingh2912/Amazon-Sales-operations-Dashboard/blob/main/Overview%20dashboard.jpeg)
+2- 
